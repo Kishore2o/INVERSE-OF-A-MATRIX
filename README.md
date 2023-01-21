@@ -15,11 +15,15 @@ using the np.linalg.inv().we cn find the inverse of the matrix
 end the program
 
 ## Program:A = np.array([[1,2,3],[3,6,9]])
+### python program to find the inverse of a matrix
+```
+Developed by : S.Kishore
+Register number : 22008388
 import numpy as np
 a = np.array([[2,1,1],[1,1,1],1,-1,2]])
 b = np.linalg.inv(a)
 print(b)
-
+```
 ## Output:
 ![image](https://user-images.githubusercontent.com/118679883/208288226-839ac2c0-7060-4be6-945f-c31b2a179ad3.png)
 
